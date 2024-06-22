@@ -32,7 +32,7 @@
 
 ## About The Project
 
-This back-end project for **Mama Recipe** was developed by [muhammadrisano](https://github.com/muhammadrisano) using Express.js. Feel free to explore the source code, which I have forked from the original repository. It includes all the files and documentation needed to develop and run the server side of this application. Thank you for developing this back-end project.
+This back-end project for **Mama Recipe** was developed by [muhammadrisano](https://github.com/muhammadrisano). Feel free to explore the source code, which I have forked from the original repository. It includes all the files and documentation needed to develop and run the server side of this application. Thank you for developing this back-end project.
 
 ### Built With
 
