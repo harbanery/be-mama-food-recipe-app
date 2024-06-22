@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <a href="https://github.com/harbanery/be-mama-recipe-figma">
+  <a href="https://github.com/harbanery/be-mama-food-recipe-app">
     <img src="./public/brandicon.ico" alt="Logo" width="80">
   </a>
 
@@ -13,7 +13,7 @@
     <br />
     <a href="https://documenter.getpostman.com/view/7675329/2sA3QqerrC#0e5dea50-1ec3-4ffe-b096-b1d0ab42d5c1" target="_blank">View Postman</a>
     ·
-    <a href="https://github.com/harbanery/mama-food-recipe-app" target="_blank" disabled>View Front-End Repo</a>
+    <a href="https://github.com/harbanery/mama-food-recipe-app" target="_blank">View Front-End Repo</a>
   </p>
 </div>
 
@@ -26,6 +26,7 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
+    <li><a href="#reference">Reference</a></li>
   </ul>
 </details>
 
@@ -38,6 +39,12 @@ This back-end project for **Mama Recipe** was developed by [muhammadrisano](http
 > This is only stack I knew about this back-end project based on package.
 
 [![Next][Express.js]][Express-url]
+
+## Reference
+
+Feel free to check it out:
+
+- [Img Shields](https://shields.io)
 
 [Express.js]: https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white
 [Express-url]: https://expressjs.com/
