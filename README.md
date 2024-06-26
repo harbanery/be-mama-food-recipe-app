@@ -28,7 +28,24 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-    <li><a href="#reference">Reference</a></li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+        <li><a href="#start-development-server">Start Development Server</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a>
+    <ul>
+        <!-- <li><a href="#features">Features</a></li> -->
+        <li><a href="#project-structure">Project Structure</a></li>
+        <li><a href="#documentation">Documentation</a></li>
+      </ul>
+    </li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ul>
 </details>
 
@@ -100,19 +117,24 @@ be-mama-food-recipe-app/
 │   └── index.html
 ├── src/
 │   ├── controllers/
-│   │   ├── recipeController.js
-│   │   └── userController.js
+│   │   ├── auth.js
+│   │   ├── recipes.js
+│   │   ├── upload.js
+│   │   └── users.js
+│   ├── herlpers/
+│   │   ├── auth.js
+│   │   └── common.js
 │   ├── middlewares/
-│   │   └── authMiddleware.js
-│   ├── models/
-│   │   └── userModel.js
+│   │   ├── auth.js
+│   │   └── upload.js
 │   ├── routes/
-│   │   ├── recipeRoutes.js
-│   │   └── userRoutes.js
-│   ├── services/
-│   │   └── recipeService.js
+│   │   ├── auth.js
+│   │   ├── index.js
+│   │   ├── recipes.js
+│   │   ├── upload.js
+│   │   └── users.js
 │   ├── utils/
-│   │   └── helper.js
+│   │   └── cloudinary.js
 │   └── app.js
 ├── .gitignore
 ├── README.md
@@ -121,7 +143,6 @@ be-mama-food-recipe-app/
 ├── package.json
 ├── vercel.json
 └── yarn.lock
-
 ```
 
 ### Documentation
