@@ -111,7 +111,6 @@ To use this project, follow the instructions below for understanding the project
 ```
 be-mama-food-recipe-app/
 ├── prisma/
-│   ├── migrations/
 │   └── schema.prisma
 ├── public/
 │   └── index.html
