@@ -76,26 +76,26 @@ Ensure you have the following installed on your local machine:
 
 1. Clone Repo
 
-   ```sh
-     git clone https://github.com/harbanery/be-mama-food-recipe-app.git
+   ```bash
+   git clone https://github.com/harbanery/be-mama-food-recipe-app.git
    ```
 
 2. Go to folder directory
 
-   ```sh
-     cd be-mama-food-recipe-app
+   ```bash
+   cd be-mama-food-recipe-app
    ```
 
 3. Install NPM packages
 
-   ```sh
-     npm install
+   ```bash
+   npm install
    ```
 
 4. Set up your database
 
-   ```sh
-     npx prisma migrate dev --name init
+   ```bash
+   npx prisma migrate dev --name init
    ```
 
 ### Start Development Server
@@ -103,7 +103,7 @@ Ensure you have the following installed on your local machine:
 To start the development server:
 
 ```sh
-     npm run dev
+npm run dev
 ```
 
 The server will start on port 3000 by default. You can use Postman to interact with the endpoints in [Documentation](#documentation).
