@@ -80,13 +80,19 @@ Ensure you have the following installed on your local machine:
      git clone https://github.com/harbanery/be-mama-food-recipe-app.git
    ```
 
-2. Install NPM packages
+2. Go to folder directory
+
+   ```sh
+     cd be-mama-food-recipe-app
+   ```
+
+3. Install NPM packages
 
    ```sh
      npm install
    ```
 
-3. Set up your database
+4. Set up your database
 
    ```sh
      npx prisma migrate dev --name init
@@ -162,7 +168,7 @@ Contributions are what make the open source community such an amazing place to l
 
 ## Contact
 
-If you have any questions or inquiries regarding this project, feel free to contact me at ryusuf05@gmail.com or [muhammadrisano](https://github.com/muhammadrisano) for back-end issues.
+If you have any questions or inquiries regarding this back-end project, feel free to contact him at [Github](https://github.com/muhammadrisano) or [LinkedIn](https://www.linkedin.com/in/muhammad-risano-80847b152/). Or if you just want to get in touch with me, feel free to contact me at ryusuf05@gmail.com or [LinkedIn](https://www.linkedin.com/in/raihan-yusuf/)
 
 ## Acknowledgements
 
